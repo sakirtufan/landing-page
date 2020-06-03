@@ -1,0 +1,22 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 90px;
+}
+#certificates .items{    
+    flex-direction: column;   
+    
+}
+#certificates .items .item{
+    width: 100%;
+}
+.skills .skill{
+    flex-direction: column;
+    
+}
+.skills .skill .skill-info{
+    padding-left: 1rem;
+}
+    
